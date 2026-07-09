@@ -2,6 +2,8 @@
 
 Execute-safely layer: dry-run-only public agent-router templates, scoring, explainability, and approval-gate examples. No live private agents, credentials, or internal routing state.
 
+**License:** Apache-2.0
+
 ## SHawn OSS stack role
 
 ```text

@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Dry-run public agent-router templates with approval gates and mock executors."
 readme = "README.md"
 requires-python = ">=3.10"
-license = "MIT"
+license = "Apache-2.0"
 authors = [{name = "SHawn"}]
 dependencies = []
 
